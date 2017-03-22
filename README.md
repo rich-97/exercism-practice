@@ -1,5 +1,5 @@
 # excercism-practice
 
-Working with the exercises at [exercism.io](https://exercism.io).
+Working with the exercises at [exercism.io](http://exercism.io).
 
-Check out my [profile](https://exercism.io/rich-97).
+Check out my [profile](http://exercism.io/rich-97).
